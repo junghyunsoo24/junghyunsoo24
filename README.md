@@ -1,5 +1,10 @@
 # Hyunsoo Jung
 ### 안드로이드 네이티브 Kotlin과 크로스 플랫폼 Flutter를 잘 활용하면서 공익적 가치를 실현하는 앱 개발자
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunghyunsoo24&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+##### 차세대아이씨티융합센터(NICC) Android Developer 2025/01/02~ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junghyunsoo24&layout=compact&theme=compact)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junghyunsoo24)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jessey3033)](https://solved.ac/jessey3033)
+
+
