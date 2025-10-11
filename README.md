@@ -3,7 +3,6 @@
 ##
 #### Android Developer 2025/01/02~ 
 - Java 기반 XML -> Kotlin 기반 Compose 리팩터링
-- https://github.com/niccjhs
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junghyunsoo24&layout=compact&theme=compact)
 
