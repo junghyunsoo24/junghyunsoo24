@@ -1,7 +1,7 @@
 ### Hyunsoo Jung
 - Kotlin과 Flutter를 잘 활용하면서 공익적 가치를 실현하는 앱 개발자
 ##
-#### 차세대아이씨티융합센터(NICC) Android Developer 2025/01/02~ 
+#### Android Developer 2025/01/02~ 
 - Java 기반 XML -> Kotlin 기반 Compose 리팩터링
 - https://github.com/niccjhs
 ##
