@@ -8,7 +8,7 @@
   - Coroutine, Retrofit, Room, DataStore, ExoPlayer, Coil, Hilt
 
 ##
-##### SKILLS
+#### SKILLS
 - 언어
   - Kotlin, Java, Dart
 - 프레임워크
