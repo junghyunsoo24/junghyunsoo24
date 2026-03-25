@@ -5,7 +5,7 @@
 ##
 #### 키오스크 조직도 Android Developer 2025/01~2026/01
 - Java 기반 XML -> Kotlin 기반 Compose 리팩터링
-  - Coroutine, Retrofit, Room, DataStore, ExoPlayer, Coil, Hilt
+  - Retrofit, Room, DataStore, File I/O, ExoPlayer, Coil, Hilt
 
 ##
 #### SKILLS
@@ -20,7 +20,7 @@
 - 네트워크
   - RESTful API (Retrofit, Dio)
 - 비동기
-  - Kotlin Coroutines, Future 기반 async/await
+  - Kotlin viewModelScope/LaunchedEffect,  Flutter Future 기반 async/await
 - 아키텍처
   - MVVM
 - 의존성 주입
