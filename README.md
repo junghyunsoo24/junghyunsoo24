@@ -1,6 +1,6 @@
 # Hyunsoo Jung
 
-**Jetpack Compose 리팩터링 경력 및 Flutter 경험을 보유한 Android 개발자**
+**Jetpack Compose 리팩터링 경력 및 Flutter 경험을 보유한 앱 개발자**
 
 ## Carrer
 ### 부서 및 직원 정보 관련 키오스크 Android 앱(2025.01 ~ 2026.01)
