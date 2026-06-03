@@ -3,9 +3,8 @@
 **Jetpack Compose 리팩터링 경력 및 Flutter 경험을 보유한 Android 개발자**
 
 ## Carrer
-### 부서 및 직원 정보 관련 키오스크 Android 앱
-**Android Developer | 2025.01 ~ 2026.01**
-﻿- Java + XML -> Kotlin + Compose 리팩터링
+### 부서 및 직원 정보 관련 키오스크 Android 앱(2025.01 ~ 2026.01)
+- Java + XML -> Kotlin + Compose 리팩터링
 - Retrofit 기반 HTTP JSON 통신
 - Coroutines 통한 비동기, LiveData/StateFlow 기반 상태 관리
 - LazyListState/CoroutineScope 기반 스크롤 제어
@@ -21,11 +20,9 @@
 `Kotlin` `Jetpack Compose` `Retrofit` `Room` `DataStore` `﻿File I.O` `ExoPlayer` `Coil` `Coroutines` `Hilt`
 
 ## Projects
-### 블록체인 검증 의료 앱
-**Flutter Developer | 2024.04 ~ 2024.10**
-
+### 블록체인 검증 의료 앱(2024.04 ~ 2024.10)
 ﻿환자 데이터 의료진 공유, 환자의 의료 정보 조회 및 기록, 의료 커뮤니티
-﻿- Flutter를 통한 크로스 플랫폼 App 개발 (Android 앱, Window 앱)
+- Flutter를 통한 크로스 플랫폼 App 개발 (Android 앱, Window 앱)
 - CODEF 의료 API 연동 
 - FireBase의 FireStore를 통한 다른 플랫폼 간 데이터 송수신  - FCM을 통한 알림 설정
 - SQLite Drift 통한 앱 내 DB 저장
@@ -36,11 +33,9 @@
 
 `Dart` `Flutter` `Dio` `Firebase` `Drift` `MySQL`
 
-### 감정분석 / 챗봇 상담 앱
-**Android Developer | 2023.04 ~ 2023.10**
-
+### 감정분석 / 챗봇 상담 앱(2023.04 ~ 2023.10)
 ﻿청소년/아동은 생성형 AI와 대화, 이를 통해 감정을 분석하는 시스템
-﻿- Kotlin을 통한 Android Native App 개발
+- Kotlin을 통한 Android Native App 개발
 - AI 챗봇 채팅(GPT-3.5 Turbo 연동) 
 - Socket.IO를 통한 실시간 채팅   
 - MPAndroidChart를 통한 그래프 통계
