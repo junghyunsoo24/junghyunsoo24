@@ -4,7 +4,7 @@
 
 ## Carrer
 ### 디지털 안내 단말기 앱(2025.01 ~ 2026.01)
-공공기관 및 시설 내 다양한 안내 단말기에서 부서·직원 정보, 조직도, 영상, 이미지를 제공하는 Android 앱
+부서·직원 정보, 조직도, 영상, 이미지 제공
 - Java + XML -> Kotlin + Compose 리팩터링
 - Retrofit 기반 HTTP JSON 통신
 - Coroutines 통한 비동기, LiveData/StateFlow 기반 상태 관리
