@@ -3,7 +3,8 @@
 **Jetpack Compose 리팩터링 경력 및 Flutter 경험을 보유한 앱 개발자**
 
 ## Carrer
-### 부서 및 직원 정보 관련 키오스크 Android 앱(2025.01 ~ 2026.01)
+### 디지털 안내 단말기 앱(2025.01 ~ 2026.01)
+공공기관 및 시설 내 다양한 안내 단말기에서 부서·직원 정보, 조직도, 영상, 이미지를 제공하는 Android 앱
 - Java + XML -> Kotlin + Compose 리팩터링
 - Retrofit 기반 HTTP JSON 통신
 - Coroutines 통한 비동기, LiveData/StateFlow 기반 상태 관리
