@@ -1,27 +1,72 @@
-### Hyunsoo Jung
-- Jetpack Compose 리팩터링 및 Flutter 경험을 보유한 공익 서비스 앱 개발자
-  - 키오스크·의료·아동 보호 등 공익 서비스 중심 앱 개발
+# Hyunsoo Jung
 
-##
-#### 키오스크 조직도 Android Developer 2025/01~2026/01
-- Java 기반 XML -> Kotlin 기반 Compose 리팩터링
-  - Retrofit, Room, DataStore, File I/O, ExoPlayer, Coil, Coroutines, Hilt
+**Jetpack Compose 리팩터링 경력 및 Flutter 경험을 보유한 Android 개발자**
 
-##
-#### SKILLS
-- 언어
-  - Kotlin, Java, Dart
-- 프레임워크
-  - Jetpack Compose, Flutter
-- 저장소
-  - SQLite (Room, Drift), DataStore, Internal Storage, MySQL
-- 파이어베이스
-  - Firestore, FCM
-- 네트워크
-  - RESTful API (Retrofit, Dio)
-- 비동기
-  - Kotlin Coroutines,  Flutter Future
-- 아키텍처
-  - MVVM
-- 의존성 주입
-  - Hilt
+## Carrer
+### 부서 및 직원 정보 관련 키오스크 Android 앱
+**Android Developer | 2025.01 ~ 2026.01**
+﻿- Java + XML -> Kotlin + Compose 리팩터링
+- Retrofit 기반 HTTP JSON 통신
+- Coroutines 통한 비동기, LiveData/StateFlow 기반 상태 관리
+- LazyListState/CoroutineScope 기반 스크롤 제어
+- SQLite Room DB/DataStore 통한 데이터 영구 저장
+- Android Internal Storage 이용한 파일 저장
+(Room DB는 파일 경로만 관리)
+- ExoPlayer 통한 영상 재생, Coil 통한 이미지 로딩 및 표시
+- Android 버전에 따라 PointerInput / Drag & Drop API 분리 
+- Custom Keyboard 통한 한글 입력 및 초성 검색 로직
+- Hilt 기반 DI 구조 적용 및 Hilt Test 통한 환경 테스트
+- 파일 수 65% 코드 수 50% 감소, 화면 시간 60% 개선
+
+`Kotlin` `Jetpack Compose` `Retrofit` `Room` `DataStore` `﻿File I.O` `ExoPlayer` `Coil` `Coroutines` `Hilt`
+
+## Projects
+### 블록체인 검증 의료 앱
+**Flutter Developer | 2024.04 ~ 2024.10**
+
+﻿환자 데이터 의료진 공유, 환자의 의료 정보 조회 및 기록, 의료 커뮤니티
+﻿- Flutter를 통한 크로스 플랫폼 App 개발 (Android 앱, Window 앱)
+- CODEF 의료 API 연동 
+- FireBase의 FireStore를 통한 다른 플랫폼 간 데이터 송수신  - FCM을 통한 알림 설정
+- SQLite Drift 통한 앱 내 DB 저장
+- Future 통한 비동기 적용
+- Spring 서버와 REST API 연동
+- Provider 통한 MVVM 패턴
+- 해시값으로 변환된 의료 데이터 블록체인에 저장(데이터 무결성 검증)
+
+`Dart` `Flutter` `Dio` `Firebase` `Drift` `MySQL`
+
+### 감정분석 / 챗봇 상담 앱
+**Android Developer | 2023.04 ~ 2023.10**
+
+﻿청소년/아동은 생성형 AI와 대화, 이를 통해 감정을 분석하는 시스템
+﻿- Kotlin을 통한 Android Native App 개발
+- AI 챗봇 채팅(GPT-3.5 Turbo 연동) 
+- Socket.IO를 통한 실시간 채팅   
+- MPAndroidChart를 통한 그래프 통계
+- DataBinding 및 XML 통한 UI 구성
+- Adapter를 통한 RecyclerView 관리
+- Flask 서버와 REST API 및 AWS 연동
+- LiveData 통한 MVVM 패턴
+
+`Java` `XML` `Retrofit` `Socket.IO` `MPAndroidChart` `MySQL`
+
+## Skills
+### Language
+`Kotlin` `Java` `Dart`
+### Framework
+`Jetpack Compose` `Flutter`
+### Storage
+`SQLite(Room, Drift)` `DataStore` `Internal Storage` `MySQL`
+### Firebase
+`Firestore` `FCM`
+### Network
+`RESTful API(Retrofit, Dio)`  `Socket.IO`
+### Asynchronous
+`Kotlin Coroutines` `Flutter Future`
+### Media / Image 
+`ExoPlayer` `Coil`
+### Architecture 
+`MVVM`
+### DI
+`Hilt`
