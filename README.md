@@ -20,7 +20,7 @@
 - 네트워크
   - RESTful API (Retrofit, Dio)
 - 비동기
-  - Kotlin viewModelScope/LaunchedEffect,  Flutter Future 기반 async/await
+  - Kotlin Coroutines,  Flutter Future
 - 아키텍처
   - MVVM
 - 의존성 주입
