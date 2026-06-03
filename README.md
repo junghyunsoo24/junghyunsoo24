@@ -7,18 +7,18 @@
 부서·직원 정보, 조직도, 영상, 이미지 제공
 - Java + XML -> Kotlin + Compose 리팩터링
 - Retrofit 기반 HTTP JSON 통신
-- Coroutines 통한 비동기, LiveData/StateFlow 기반 상태 관리
-- LazyListState/CoroutineScope 기반 스크롤 제어
 - SQLite Room DB/DataStore 통한 데이터 영구 저장
 - Android Internal Storage 이용한 파일 저장
-(Room DB는 파일 경로만 관리)
+- ADB 기반 실제 단말기 앱 설치, 로그 확인 및 오류 디버깅
+- Coroutines 통한 비동기, LiveData/StateFlow 기반 상태 관리
+- LazyListState/CoroutineScope 기반 스크롤 제어
 - ExoPlayer 통한 영상 재생, Coil 통한 이미지 로딩 및 표시
 - Android 버전에 따라 PointerInput / Drag & Drop API 분리 
 - Custom Keyboard 통한 한글 입력 및 초성 검색 로직
 - Hilt 기반 DI 구조 적용 및 Hilt Test 통한 환경 테스트
-- 파일 수 65% 코드 수 50% 감소, 화면 시간 60% 개선
+- 파일 수 65% / 코드 수 50% 감소, 초기 로딩 시간 60% 개선
 
-`Kotlin` `Jetpack Compose` `Retrofit` `Room` `DataStore` `﻿File I.O` `ExoPlayer` `Coil` `Coroutines` `Hilt`
+`Kotlin` `Jetpack Compose` `Retrofit` `Room` `DataStore` `﻿File I.O` `ADB` `Coroutines` `ExoPlayer` `Coil`  `Hilt`
 
 ## Projects
 ### 블록체인 검증 의료 앱(2024.04 ~ 2024.10)
