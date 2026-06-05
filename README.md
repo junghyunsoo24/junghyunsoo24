@@ -25,16 +25,16 @@ http://www.nicc.kr/
 ## Projects
 ### 블록체인 검증 의료 앱(2024.04 ~ 2024.10)
 ﻿환자 데이터 의료진 공유, 환자의 의료 정보 조회 및 기록, 의료 커뮤니티
- - Flutter를 통한 크로스 플랫폼 App 개발
+- Flutter를 통한 크로스 플랫폼 App 개발
 (Android 앱, Window 앱)
- - Spring/MySQL 서버와 Dio 기반 REST API 연동
- - SQLite Drift 통한 앱 내 DB 저장
- - Future 통한 비동기 적용
- - CODEF 의료 API 통한 카카오 지갑 인증 및 데이터 조회 
- - FireBase의 FireStore를 통한 다른 플랫폼 간 데이터 송수신, FCM을 통한 알림 설정
- - 해시값으로 변환된 의료 데이터 블록체인에 저장
+- Spring/MySQL 서버와 Dio 기반 REST API 연동
+- SQLite Drift 통한 앱 내 DB 저장
+- Future 통한 비동기 적용
+- CODEF 의료 API 통한 카카오 지갑 인증 및 데이터 조회 
+- FireBase의 FireStore를 통한 다른 플랫폼 간 데이터 송수신, FCM을 통한 알림 설정
+- 해시값으로 변환된 의료 데이터 블록체인에 저장
 (데이터 무결성 검증)
- - Provider 통한 MVVM 패턴
+- Provider 통한 MVVM 패턴
 
 `Dart` `Flutter` `MySQL` `Dio` `Drift` `Future` `Firebase`  
 
