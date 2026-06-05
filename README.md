@@ -25,7 +25,7 @@
 ﻿환자 데이터 의료진 공유, 환자의 의료 정보 조회 및 기록, 의료 커뮤니티
 - Flutter를 통한 크로스 플랫폼 App 개발 (Android 앱, Window 앱)
 - CODEF 의료 API 연동 
-- FireBase의 FireStore를 통한 다른 플랫폼 간 데이터 송수신  - FCM을 통한 알림 설정
+- FireBase의 FireStore를 통한 다른 플랫폼 간 데이터 송수신, FCM을 통한 알림 설정
 - SQLite Drift 통한 앱 내 DB 저장
 - Future 통한 비동기 적용
 - Spring 서버와 REST API 연동
