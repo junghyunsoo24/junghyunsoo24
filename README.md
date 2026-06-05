@@ -6,7 +6,7 @@
 ### 디지털 안내 단말기 앱(2025.01 ~ 2026.01)
 부서·직원 정보, 조직도, 영상, 이미지 제공
 - Java + XML -> Kotlin + Compose 리팩터링
-- Retrofit 기반 HTTP JSON 통신
+- JSP 서버와 Retrofit 기반 REST API 연동
 - SQLite Room DB/DataStore 통한 데이터 영구 저장
 - Android Internal Storage 이용한 파일 저장
 - ADB 기반 실제 단말기 앱 설치, 로그 확인 및 오류 디버깅
@@ -28,7 +28,7 @@
 - FireBase의 FireStore를 통한 다른 플랫폼 간 데이터 송수신, FCM을 통한 알림 설정
 - SQLite Drift 통한 앱 내 DB 저장
 - Future 통한 비동기 적용
-- Spring 서버와 REST API 연동
+- Spring 서버와 Dio 기반 REST API 연동
 - Provider 통한 MVVM 패턴
 - 해시값으로 변환된 의료 데이터 블록체인에 저장(데이터 무결성 검증)
 
@@ -42,7 +42,7 @@
 - MPAndroidChart를 통한 그래프 통계
 - DataBinding 및 XML 통한 UI 구성
 - Adapter를 통한 RecyclerView 관리
-- Flask 서버와 REST API 및 AWS 연동
+- Flask 서버와 Retrofit 기반 REST API 및 AWS 연동
 - LiveData 통한 MVVM 패턴
 
 `Java` `XML` `Retrofit` `Socket.IO` `MPAndroidChart` `MySQL`
