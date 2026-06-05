@@ -41,11 +41,11 @@ http://www.nicc.kr/
 ### 감정분석 / 챗봇 상담 앱(2023.04 ~ 2023.10)
 ﻿청소년/아동은 생성형 AI와 대화, 이를 통해 감정을 분석하는 시스템
 - Kotlin을 통한 Android Native App 개발
+- DataBinding 및 XML 통한 UI 구성
 - Flask/MySQL 서버와 Retrofit 기반 REST API 및 AWS 연동
 - AI 챗봇 채팅(GPT-3.5 Turbo 연동) 
 - Socket.IO를 통한 실시간 채팅   
 - MPAndroidChart를 통한 그래프 통계
-- DataBinding 및 XML 통한 UI 구성
 - Adapter를 통한 RecyclerView 관리
 - LiveData 통한 MVVM 패턴
 
