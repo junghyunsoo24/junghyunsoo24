@@ -23,7 +23,7 @@
 http://www.nicc.kr/
 
 ## Projects
-### 블록체인 검증 의료 앱(2024.04 ~ 2024.10)
+### [블록체인 검증 의료 앱(2024.04 ~ 2024.10)](https://github.com/junghyunsoo24/portfolio_flutter_blockchain_medical_web_app)
 ﻿환자 데이터 의료진 공유, 환자의 의료 정보 조회 및 기록, 의료 커뮤니티
 - Flutter를 통한 크로스 플랫폼 App 개발
 (Android 앱, Window 앱)
@@ -38,7 +38,7 @@ http://www.nicc.kr/
 
 `Dart` `Flutter` `MySQL` `Dio` `Drift` `Future` `Firebase`  
 
-### 감정분석 / 챗봇 상담 앱(2023.04 ~ 2023.10)
+### [감정분석 / 챗봇 상담 앱(2023.04 ~ 2023.10)](https://github.com/junghyunsoo24/portfolio-teenager-emotion-prevent-app-teenagers)
 ﻿청소년/아동은 생성형 AI와 대화, 이를 통해 감정을 분석하는 시스템
 - Kotlin을 통한 Android Native App 개발
 - DataBinding 및 XML 통한 UI 구성
