@@ -57,7 +57,7 @@
 ### Firebase
 `Firestore` `FCM`
 ### Network
-`RESTful API(Retrofit, Dio)`  `Socket.IO`
+`REST API(Retrofit, Dio)`  `Socket.IO`
 ### Asynchronous
 `Kotlin Coroutines` `Flutter Future`
 ### Media / Image 
