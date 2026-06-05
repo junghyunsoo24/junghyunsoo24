@@ -3,7 +3,7 @@
 **Jetpack Compose 리팩터링 경력 및 Flutter 경험을 보유한 앱 개발자**
 
 ## Carrer
-### 디지털 안내 단말기 앱(2025.01 ~ 2026.01)
+### [디지털 안내 단말기 앱(2025.01 ~ 2026.01)](http://www.nicc.kr/page/sub2_01)
 부서·직원 정보, 조직도, 영상, 이미지 제공
 - Java + XML -> Kotlin + Compose 리팩터링
 - JSP 서버와 Retrofit 기반 REST API 연동
@@ -19,8 +19,6 @@
 - 파일 수 65% / 코드 수 50% 감소, 초기 로딩 시간 60% 개선
 
 `Kotlin` `Jetpack Compose` `Retrofit` `Room` `DataStore` `﻿File I.O` `ADB` `Coroutines` `ExoPlayer` `Coil`  `Hilt`
-
-http://www.nicc.kr/
 
 ## Projects
 ### [블록체인 검증 의료 앱(2024.04 ~ 2024.10)](https://github.com/junghyunsoo24/portfolio_flutter_blockchain_medical_web_app)
