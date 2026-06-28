@@ -1,6 +1,6 @@
 # Hyunsoo Jung
 
-**Jetpack Compose 리팩터링 경력 및 Flutter 경험을 보유한 앱 개발자**
+**Jetpack Compose 리팩터링&운영 경력 및 Flutter 경험을 보유한 앱 개발자**
 
 ## Carrer
 ### [디지털 안내 단말기 앱(2025.01 ~ 2026.01)](http://www.nicc.kr/page/sub2_01)
