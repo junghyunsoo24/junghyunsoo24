@@ -2,7 +2,7 @@
 
 **XML/Compose/Flutter 경험 & 리팩터링 및 유지보수 경력 & 플레이스토어 앱 출시를 한 앱 개발자**
 
-## 앱 출시
+## 플레이스토어 앱 출시
 ### [자가비 홀덤(2026.08 ~)](https://play.google.com/store/apps/details?id=kr.aviss.holdem.holdemandroid)
 텍사스 홀덤 학습 및 실전 보조 Android 앱
 - Kotlin + Jetpack Compose -> Android Native App 개발
