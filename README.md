@@ -12,9 +12,10 @@
 - QUIZ·PROFILE -> Google 로그인과 Retrofit·OkHttp 기반 퀴즈·랭킹 API 연동 
 - Room·DataStore를 통한 즐겨찾기, 메모 및 계산 기록 저장 
 - MVVM, Coroutines·StateFlow, Hilt, Navigation Compose 적용 
-- JUnit·MockWebServer·Compose UI Test 및 Google AdMob 배너 연동
+- JUnit·MockWebServer·Compose UI Test
+- Google AdMob 배너 연동
 
-  `Kotlin` `Jetpack Compose` `MVVM` `Coroutines` `StateFlow` `Hilt` `Room` `DataStore` `Retrofit` `OkHttp` `AdMob`
+`Kotlin` `Jetpack Compose` `MVVM` `Coroutines` `StateFlow` `Hilt` `Room` `DataStore` `Retrofit` `OkHttp` `AdMob`
 
 ## Carrer
 ### [셋톱박스 & 모바일 앱(2026.07 ~)](https://www.atlaslink.co.kr/products/streaming-device)
