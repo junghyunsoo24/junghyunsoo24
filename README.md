@@ -31,7 +31,7 @@
 
 `Kotlin` `Java` `XML` `Jetpack Compose` `Retrofit` `Room` `DataStore` `ADB` `Coroutines` `ExoPlayer` `Hilt`
 
-### [디지털 안내 단말기 앱(2025.01 ~ 2026.01)](http://www.nicc.kr/page/sub2_01)
+### [디지털 안내 단말기 앱(2025.01 ~ 2026.01)](https://nicc.kr/solutions/hannun-e-org)
 부서·직원 정보, 조직도, 영상, 이미지 제공
 - Java + XML -> Kotlin + Compose 리팩터링
 - JSP 서버와 Retrofit 기반 REST API 연동
