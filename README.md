@@ -76,23 +76,3 @@
 - LiveData 통한 MVVM 패턴
 
 `Java` `XML` `MySQL` `Retrofit` `Socket.IO` `MPAndroidChart` 
-
-## Skills
-### Language
-`Kotlin` `Java` `Dart`
-### Framework
-`Jetpack Compose` `Flutter`
-### Storage
-`SQLite(Room, Drift)` `DataStore` `Internal Storage` `MySQL`
-### Firebase
-`Firestore` `FCM`
-### Network
-`REST API(Retrofit, Dio)`  `Socket.IO`
-### Asynchronous
-`Kotlin Coroutines` `Flutter Future`
-### Media / Image 
-`ExoPlayer` `Coil`
-### Architecture 
-`MVVM`
-### DI
-`Hilt`
