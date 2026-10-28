@@ -13,7 +13,6 @@
 - Room·DataStore를 통한 즐겨찾기, 메모 및 계산 기록 저장 
 - MVVM, Coroutines·StateFlow, Hilt, Navigation Compose 적용 
 - JUnit·MockWebServer·Compose UI Test 및 Google AdMob 배너 연동
-- Google AdMob 배너 광고 연동
 
   `Kotlin` `Jetpack Compose` `MVVM` `Coroutines` `StateFlow` `Hilt` `Room` `DataStore` `Retrofit` `OkHttp` `AdMob`
 
