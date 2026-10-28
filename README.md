@@ -1,8 +1,36 @@
 # Hyunsoo Jung
 
-**Jetpack Compose 리팩터링&운영 경력 및 Flutter 경험을 보유한 앱 개발자**
+**XML/Compose/Flutter 경험 & 리팩터링 및 유지보수 경력 & 플레이스토어 앱 출시를 한 앱 개발자**
+
+## 앱 출시
+### [자가비 홀덤(2026.08 ~)](https://play.google.com/store/apps/details?id=kr.aviss.holdem.holdemandroid)
+텍사스 홀덤 학습 및 실전 보조 Android 앱
+- Kotlin + Jetpack Compose -> Android Native App 개발
+- RANGE -> 100BB·20BB 및 포지션별 RFI, Facing RFI, Facing 3-bet 핸드레인지 제공 
+- ODDS -> 10만 회 시뮬레이션을 통한 승률 및 에쿼티 계산 
+- DEAL·MEMO -> 토너먼트 상금 분배, 좌석별 플레이어 성향 및 테이블 메모 제공 
+- QUIZ·PROFILE -> Google 로그인과 Retrofit·OkHttp 기반 퀴즈·랭킹 API 연동 
+- Room·DataStore를 통한 즐겨찾기, 메모 및 계산 기록 저장 
+- MVVM, Coroutines·StateFlow, Hilt, Navigation Compose 적용 
+- JUnit·MockWebServer·Compose UI Test 및 Google AdMob 배너 연동
+- Google AdMob 배너 광고 연동
+
+  `Kotlin` `Jetpack Compose` `MVVM` `Coroutines` `StateFlow` `Hilt` `Room` `DataStore` `Retrofit` `OkHttp` `AdMob`
 
 ## Carrer
+### [셋톱박스 & 모바일 앱(2026.07 ~)](https://www.atlaslink.co.kr/products/streaming-device)
+셋톱박스 앱(TV) + 모바일 앱 모두 제공
+- Java(Kotlin) + XML -> 셋톱박스 앱 개발 및 유지보수
+- Kotlin + Compose -> 모바일 앱 개발 및 유지보수
+- 셋톱박스 ObjectBox, 모바일 앱 SQLite Room 통한 앱 내 데이터 영구 저장
+- ADB 기반 실제 단말기 앱 설치, 로그 확인 및 오류 디버깅
+- Coroutines 통한 비동기, LiveData/StateFlow 기반 상태 관리
+- 셋톱박스 Vertical(Horizontal)GridView, 모바일 앱 LazyListState/CoroutineScope 기반 스크롤 제어
+- ExoPlayer 통한 라이브 스트리밍 및 VOD 영상 재생
+- Hilt 기반 DI 구조 적용
+
+`Kotlin` `Java` `XML` `Jetpack Compose` `Retrofit` `Room` `DataStore` `ADB` `Coroutines` `ExoPlayer` `Hilt`
+
 ### [디지털 안내 단말기 앱(2025.01 ~ 2026.01)](http://www.nicc.kr/page/sub2_01)
 부서·직원 정보, 조직도, 영상, 이미지 제공
 - Java + XML -> Kotlin + Compose 리팩터링
